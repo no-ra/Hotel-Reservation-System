@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="ProjektDotNet.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet" type="text/css" />
+    <script src="js/jquery.min.js" type="text/javascript"></script>
+    <script src="js/bootstrap.min.js" type="text/javascript"></script>
+    
+    <title>
+        <asp:ContentPlaceHolder ID="title" runat="server">
+        </asp:ContentPlaceHolder>
+    </title>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+
+<body>
+    <div class="wrapper container">
+        <div class ="menu">
+            <ul>
+                <li> <a href ="Default.aspx">Home</a></li>
+                <li> <a href ="#">Rezervimet</a></li>
+                <li> <a href ="Rregjistrim.aspx">Rregjistrim</a></li>
+                <li> <a href ="RezervimStatus.aspx">Informacion Rreth Rezervimeve</a></li>
+            </ul>
+        </div>
+        
+        <div class="content">
+            <asp:ContentPlaceHolder ID="contentBody" runat="server">        
+            </asp:ContentPlaceHolder>
+        </div>
+        
+        <div class="footer" >        
+            <h2>Copyright@Team5</h2>
+        </div>
+        
+    </div>
+</body>
+</html>

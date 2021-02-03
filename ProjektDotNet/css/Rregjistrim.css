@@ -1,0 +1,68 @@
+﻿body {
+}
+
+li  {
+    list-style-type: none;
+}
+
+form {
+	background: gradient(linear, bottom, left 175px, from(#CCCCCC), to(#EEEEEE));
+	background: gradient(bottom, #CCCCCC, #EEEEEE 175px);
+	margin:auto;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: bold;
+	color: #09C;
+	text-decoration: none;
+	padding:10px;
+    background-color:  #eeeeee;
+}
+
+form input 
+{
+    color: Black;
+}
+
+.row 
+{
+    margin-bottom: 10px;
+}
+
+.button
+{
+    margin:10px;
+}
+
+.Grid
+{
+    background-color: #fff;
+    margin: 5px 0 10px 0;
+    border: solid 1px #525252;
+    border-collapse: collapse;
+    color: #000000;
+    text-align: center;
+} 
+
+.Grid td
+{
+    padding: 2px;
+    border: solid 1px #c1c1c1;
+}
+
+
+.Grid th
+{
+    padding: 4px 2px;
+    color: #fff;
+    background: #09c repeat-x top;
+    border-left: solid 1px #525252;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Grid tr:nth-child(odd) 
+{
+    background-color: #cccccc;
+}
+

@@ -1,0 +1,37 @@
+﻿body {
+}
+
+
+.Grid
+{
+    background-color: #fff;
+    margin: 5px 0 10px 0;
+    border: solid 1px #525252;
+    border-collapse: collapse;
+    color: #000000;
+    text-align: center;
+} 
+.Grid td
+{
+    padding: 2px;
+    border: solid 1px #c1c1c1;
+}
+
+
+.Grid th
+{
+    padding: 4px 2px;
+    color: #fff;
+    background: #09c repeat-x top;
+    border-left: solid 1px #525252;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+
+.Grid tr:nth-child(odd) 
+{
+    background-color: #cccccc; }
+
+
+

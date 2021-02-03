@@ -1,0 +1,71 @@
+﻿body, div, ul, li , form, textarea,h1,h2
+{
+    padding: 0;
+    margin:0;
+    background-color: rgb(237,237,237);
+    font-size: 12px;
+    font-family: Arial, Helvetica, Sans-Serif;
+}
+
+.clear 
+{
+    clear:both;
+}
+.wrapper 
+{    
+    width: 950px;
+    margin: auto; 
+}
+    
+.content 
+{ background-color:  #eeeeee;
+    width:950px;
+    height: 700px;
+   
+   border: 1px solid rgb(224,224,224);
+   float:left;
+   
+   margin-bottom:8px;
+   
+        
+}
+    
+.menu 
+{ 
+    background-color: #09c;
+    width:100%;
+    margin: 0px 0px 10px;
+    padding:0px;
+    height:40px;
+    color:rgb(243,243,243);        
+}
+    
+.menu ul { }
+   
+   
+.menu ul li 
+{
+    float:left;
+    display:block;
+    list-style:none;
+    border-right: 1px solid rgb(10,85,125);
+    border-left: 1px solid rgb(67,153,200);
+    background-color: #09c;
+      
+}
+   
+.menu ul li a 
+{
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 40px;
+    padding: 8px 20px;
+    color: black;
+    text-decoration: none;
+}
+  
+.footer 
+{
+    padding: 15px;
+    text-align: center;
+}        

@@ -1,0 +1,10 @@
+C:\Users\NORA\Documents\Visual Studio 2010\Projects\ProjektDotNet\ProjektDotNet\bin\ProjektDotNet.dll
+C:\Users\NORA\Documents\Visual Studio 2010\Projects\ProjektDotNet\ProjektDotNet\bin\ProjektDotNet.pdb
+C:\Users\NORA\Documents\Visual Studio 2010\Projects\ProjektDotNet\ProjektDotNet\obj\Debug\ProjektDotNet.dll
+C:\Users\NORA\Documents\Visual Studio 2010\Projects\ProjektDotNet\ProjektDotNet\obj\Debug\ProjektDotNet.pdb
+C:\Users\NORA\Documents\Visual Studio 2010\Projects\ProjektDotNet\ProjektDotNet\obj\Debug\ProjektDotNet.csprojResolveAssemblyReference.cache
+C:\Users\NORA\Desktop\Hoteli .NET\ProjektDotNet\bin\ProjektDotNet.dll
+C:\Users\NORA\Desktop\Hoteli .NET\ProjektDotNet\bin\ProjektDotNet.pdb
+C:\Users\NORA\Desktop\Hoteli .NET\ProjektDotNet\obj\Debug\ProjektDotNet.csprojResolveAssemblyReference.cache
+C:\Users\NORA\Desktop\Hoteli .NET\ProjektDotNet\obj\Debug\ProjektDotNet.dll
+C:\Users\NORA\Desktop\Hoteli .NET\ProjektDotNet\obj\Debug\ProjektDotNet.pdb
